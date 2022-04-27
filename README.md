@@ -8,9 +8,9 @@
 
 ### Table of Content
 
-1. [blogs](#blog)
-2. [how-to](#howto)
-3. [resources](#resources)
+1. [blogs](./docs/blog)
+2. [how-to](./docs/how-to)
+3. [resources](./docs/resources)
 
 > What to find in each category?
 
@@ -52,7 +52,7 @@ This is a sub paragraph, formatted in heading 3 style -->
 
 ---
 
-# Folder Structure
+## Folder Structure
 
 ```markdown
 Content Structure
