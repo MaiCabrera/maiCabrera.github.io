@@ -26,7 +26,7 @@
 <!-- ### Sub paragraph <a name="explain"></a>
 This is a sub paragraph, formatted in heading 3 style -->
 
-## How-to <a name="howto"></a>
+## How-to <a name="how-to"></a>
 
 **How-To** are defined by the following elements:
 
