@@ -55,29 +55,17 @@ This is a sub paragraph, formatted in heading 3 style -->
 # Folder Structure
 
 ```markdown
-GH Documentation System
-│   README.md  
+Content Structure
+│- Root-README.md  
 │
-└───explanations
-│   │   - troubleshooting
-│   │   - ubuntu-troubleshooting
+└───blogs
+│   │- archive
 │
-└───how-to-guides
-│   │   - docker-compose-101
-│   │   - helm-chart-101
-│   │   - k3s-101
-│   │   - security-101
+└───how-to
+│   │- docsify
 │   
-│   
-└───reference
-│   │  - hackathon
-│   │  - readme
-│
-│   
-└───tutorials
-│   │  - ccl-ttb
-│   │  - EKS-postmortems
-|        |
-|        └───2021
+└───resources
+│   │- github
+│   │- command line tools
 │
 ```
