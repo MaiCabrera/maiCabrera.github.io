@@ -74,13 +74,6 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
-<!-- Mai Stats -->
-----
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicabrera&count_private=true&show_icons=true&theme=nightowl)]
-</div>
 ---
 
 <div align="left">
