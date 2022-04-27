@@ -33,7 +33,7 @@ This is a sub paragraph, formatted in heading 3 style -->
 - [ ] oriented to: **a goal**
 - [ ] must: **show how to solve a specific problem**
 - [ ] its form: **a series of steps**
-- [ ] analogy: **a recipe in a cookery book**
+- [ ] analogy: **a recipe in a cook book**
 
 <!-- ### Sub paragraph <a name="explain"></a>
 This is a sub paragraph, formatted in heading 3 style -->
