@@ -8,9 +8,9 @@
 
 ### Table of Content
 
-1. [blogs](./docs/blog)
-2. [how-to](./docs/how-to)
-3. [resources](./docs/resources)
+1. [blogs](./docs/blogs/README.md)
+2. [how-to](./docs/how-to/README.md)
+3. [resources](./docs/resources/README.md)
 
 > What to find in each category?
 
