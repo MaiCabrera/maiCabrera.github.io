@@ -138,6 +138,7 @@ Content Structure
 │
 └───how-to
 │   │- docsify
+│   │- cosign
 │   
 └───resources
 │   │- github
