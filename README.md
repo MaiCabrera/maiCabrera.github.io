@@ -2,9 +2,9 @@
 
 ## About Me
 
-# Hi , I'm Maria Cabrera (Mai)
+## Hi , I'm Maria Cabrera (Mai)
 
-## Cloud Architect & Engineer specializing in security
+### Cloud Architect & Engineer specializing in security
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built-with-love"/>
 
@@ -30,7 +30,7 @@
 
 ## 🧰 Toolbox
 
-#### ***(page under construction!)***
+### ***(page under construction!)***
 
 <!-- CICD -->
 <h3 align="center">Programming Languages</h3>
