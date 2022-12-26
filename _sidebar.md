@@ -10,6 +10,5 @@
   * [gpg](./docs/how-to/gpg/README.md)
   * [sbom](docs/how-to/sbom/README.md)
 * [resources](./docs/resources/README.md)
-  * [cli](./docs/resources/cli/README.md)
-  * [git](./docs/resources/git/README.md)
-  * [github](./docs/resources/github/README.md)
+  * [git](./docs/resources/git/cheatsheet.md)
+  * [github](./docs/resources/github/gpgkey-cheatsheet.md)
