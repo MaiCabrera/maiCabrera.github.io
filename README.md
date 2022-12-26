@@ -6,9 +6,8 @@
 
 ### Cloud Architect & Engineer specializing in security
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built-with-love"/>
-
-### Interests
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+#### Interests
 
 - Currently working on creating free open source tutorials, demos & examples.
   
