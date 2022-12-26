@@ -7,6 +7,8 @@
 * [how-to](./docs/how-to/README.md)
   * [docsify](./docs/how-to/docsify/README.md)
   * [cosign](./docs/how-to/cosign/README.md)
+  * [gpg](./docs/how-to/gpg/README.md)
+  * [sbom](docs/how-to/sbom/README.md)
 * [resources](./docs/resources/README.md)
   * [cli](./docs/resources/cli/README.md)
   * [git](./docs/resources/git/README.md)
